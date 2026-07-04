@@ -1,0 +1,2 @@
+# DHZ_SOC_CompetitionProduction
+按嵌入式芯片与系统设计竞赛的赛事要求开源参赛项目代码
